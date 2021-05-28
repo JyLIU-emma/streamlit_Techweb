@@ -1,0 +1,3356 @@
+[
+    {
+        "forme": "a",
+        "cat\u00e9gorie": "Interjection (interj.)",
+        "sens": [
+            "expression de protestation ou de d\u00e9fi"
+        ],
+        "views": "1489"
+    },
+    {
+        "forme": "a",
+        "cat\u00e9gorie": "Pronom (pron.)",
+        "sens": [
+            "il",
+            "elle"
+        ],
+        "views": "1559"
+    },
+    {
+        "forme": "a",
+        "cat\u00e9gorie": "Adverbe (adv.)",
+        "sens": [
+            "seulement"
+        ],
+        "views": "1349"
+    },
+    {
+        "forme": "a\u0301",
+        "cat\u00e9gorie": "Pr\u00e9position (pr\u00e9p.)",
+        "sens": [
+            "a\u0300",
+            "au",
+            "\u00e0 la",
+            "sous",
+            "sur",
+            "dans"
+        ],
+        "views": "560"
+    },
+    {
+        "forme": "a\u0301",
+        "cat\u00e9gorie": "Pronom (pron.)",
+        "sens": [
+            "lui",
+            "il",
+            "elle"
+        ],
+        "views": "534"
+    },
+    {
+        "forme": "a\u0301",
+        "cat\u00e9gorie": "Pronom Personnel (pers.)",
+        "sens": [
+            "2PL"
+        ],
+        "views": "542"
+    },
+    {
+        "forme": "ala\u0301 klu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "plante du pied"
+        ],
+        "views": "1039"
+    },
+    {
+        "forme": "ala\u0301 pu\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "paume de la main"
+        ],
+        "views": "919"
+    },
+    {
+        "forme": "male\u0304m, m\u025b\u0301le\u0304m",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sorte d\u2019\u00e9pice"
+        ],
+        "views": "899"
+    },
+    {
+        "forme": "mal\u025b\u0304\u014bge",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "balafon avec neuf tons"
+        ],
+        "views": "617"
+    },
+    {
+        "forme": "ali\u0301sa, ale\u0304sa",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "lame de rasoir emprunt\u00e9 de l\u2019anglais: razor"
+        ],
+        "views": "636"
+    },
+    {
+        "forme": "ali\u0301sa, ale\u0304sa",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "lame de rasoir emprunt\u00e9 de l\u2019anglais: razor"
+        ],
+        "views": "674"
+    },
+    {
+        "forme": "am\u025bt, amat",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "boubou",
+            "ganndoura"
+        ],
+        "views": "355"
+    },
+    {
+        "forme": "ami, amm\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "gorge",
+            "cou d\u2019animal"
+        ],
+        "views": "463"
+    },
+    {
+        "forme": "amm\u025b, ami",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "gorge",
+            "cou d\u2019animal"
+        ],
+        "views": "405"
+    },
+    {
+        "forme": "\u014ba\u0301\u2019nchu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "Gousse beige pour la sauce jaune et mpf\u0289",
+            "Condiment"
+        ],
+        "views": "201"
+    },
+    {
+        "forme": "mand\u0259\u0301\u2019, mend\u0289\u0254\u0301\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "esp\u00e8ce d\u2019oiseau",
+            "toupie"
+        ],
+        "views": "272"
+    },
+    {
+        "forme": "andi\u014ba, \u014bgi\u014b\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "singe roux"
+        ],
+        "views": "267"
+    },
+    {
+        "forme": "and\u0289\u0304\u0254\u0304, nd\u0254",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "chauve-souris"
+        ],
+        "views": "251"
+    },
+    {
+        "forme": "\u014ba\u0301\u014ba",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "cloche",
+            "sonnerie"
+        ],
+        "views": "183"
+    },
+    {
+        "forme": "ma\u014bga\u0301n\u0301j\u0289\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "anc\u00eatre"
+        ],
+        "views": "154"
+    },
+    {
+        "forme": "a\u014bkandi\u014ba, \u014bk\u025b\u014bgi\u014b\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "banane"
+        ],
+        "views": "175"
+    },
+    {
+        "forme": "mann\u025b, me\u014bi",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "m\u00e8re des jumeaux"
+        ],
+        "views": "208"
+    },
+    {
+        "forme": "anta, k\u0289tsh\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "grillon"
+        ],
+        "views": "200"
+    },
+    {
+        "forme": "asa\u014bgia, sa\u014bgiaacafh\u0254\u0301o",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "vari\u00e9t\u00e9 de champignon"
+        ],
+        "views": "196"
+    },
+    {
+        "forme": "as\u025bnza",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "pagne"
+        ],
+        "views": "173"
+    },
+    {
+        "forme": "ashu\u014bne, aso\u014bli",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "parole",
+            "langue parl\u00e9e"
+        ],
+        "views": "202"
+    },
+    {
+        "forme": "asiili\u0301i, asiin\u025b\u0301",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "glissant"
+        ],
+        "views": "175"
+    },
+    {
+        "forme": "asiin\u025b\u0301, asiili\u0301i",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "glissant"
+        ],
+        "views": "140"
+    },
+    {
+        "forme": "as\u0254ba, as\u0254p\u0254",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "fils ain\u00e9 dans une grande famille"
+        ],
+        "views": "149"
+    },
+    {
+        "forme": "astok, asit\u0254\u0301\u0254k",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "chaussette"
+        ],
+        "views": "143"
+    },
+    {
+        "forme": "asw\u025bn\u025b\u0301, afy\u025bli\u0301i",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "\u00e9troit",
+            "serr\u00e9"
+        ],
+        "views": "136"
+    },
+    {
+        "forme": "aswh\u025bli livem, eswi\u014blevem",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sorte de diarrh\u00e9e infantile"
+        ],
+        "views": "134"
+    },
+    {
+        "forme": "at\u0289\u0301e\u0301, ha\u0301\u014bya\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "fer \u00e0 repasser emprunt\u00e9 de l\u2019anglais: iron"
+        ],
+        "views": "109"
+    },
+    {
+        "forme": "at\u0289\u025b\u0301, at\u0289ee",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "dur",
+            "rigide"
+        ],
+        "views": "93"
+    },
+    {
+        "forme": "at\u0289ee, at\u0289\u025b",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "dur",
+            "rigide"
+        ],
+        "views": "91"
+    },
+    {
+        "forme": "ate\u014bn\u025b\u0301, ate\u014bli\u0301i",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "inclin\u00e9",
+            "tordu"
+        ],
+        "views": "126"
+    },
+    {
+        "forme": "matla\u0301si, m\u025btla\u0301si",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "matelas Emprunte\u0301 de l\u2019anglais: mattress"
+        ],
+        "views": "111"
+    },
+    {
+        "forme": "matsa\u2019cukw\u025bt, m\u025btsa\u2019 cu\u0301kw\u025bt",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "moineau"
+        ],
+        "views": "108"
+    },
+    {
+        "forme": "atsagla, sa\u0301ap",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "lime"
+        ],
+        "views": "102"
+    },
+    {
+        "forme": "atsa\u0301-me\u0301ze\u014b\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "mis\u00e9ricorde",
+            "piti\u00e9"
+        ],
+        "views": "89"
+    },
+    {
+        "forme": "atse\u0301ke\u0301 le\u0301s\u0254\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "gencive"
+        ],
+        "views": "82"
+    },
+    {
+        "forme": "atsemte / atemte",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "m\u00e9lange"
+        ],
+        "views": "94"
+    },
+    {
+        "forme": "atse\u014b\u025b khu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "talon"
+        ],
+        "views": "76"
+    },
+    {
+        "forme": "atse\u014b\u025b \u014b\u0301gya\u0301",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "famille",
+            "fondation"
+        ],
+        "views": "68"
+    },
+    {
+        "forme": "atse\u014b\u025b pu\u0304\u0301",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "coude"
+        ],
+        "views": "74"
+    },
+    {
+        "forme": "atsetsa\u0301, tsitsa\u0301",
+        "cat\u00e9gorie": "Interjection (interj.)",
+        "sens": [
+            "promesse de vengeance"
+        ],
+        "views": "76"
+    },
+    {
+        "forme": "aze\u014b-nt\u0254\u014b, s\u025btnt\u0254\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "meningite"
+        ],
+        "views": "70"
+    },
+    {
+        "forme": "mb\u0289\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "force",
+            "puissance"
+        ],
+        "views": "52"
+    },
+    {
+        "forme": "mba",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "concession",
+            "habitation"
+        ],
+        "views": "77"
+    },
+    {
+        "forme": "mba\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "brousse"
+        ],
+        "views": "55"
+    },
+    {
+        "forme": "mba\u0304, mba-nn\u025b\u0301",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "foureau"
+        ],
+        "views": "50"
+    },
+    {
+        "forme": "mba\u2019a, amba\u2019a",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "bouton"
+        ],
+        "views": "50"
+    },
+    {
+        "forme": "mba\u0301kne",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "inutilit\u00e9",
+            "superu"
+        ],
+        "views": "38"
+    },
+    {
+        "forme": "lebaka, licu'o",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "entasser, accumuler"
+        ],
+        "views": "72"
+    },
+    {
+        "forme": "mbal\u0254\u0301\u0254k",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "malchance"
+        ],
+        "views": "54"
+    },
+    {
+        "forme": "mba\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "noyau",
+            "grain",
+            "rein"
+        ],
+        "views": "38"
+    },
+    {
+        "forme": "mba\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "clou"
+        ],
+        "views": "41"
+    },
+    {
+        "forme": "mba\u014ba ntw\u025b\u0304t",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sorte de chenille brulante"
+        ],
+        "views": "41"
+    },
+    {
+        "forme": "mba\u014bne pa\u014bn\u00e9, mba\u014bli pa\u014bli",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "croix"
+        ],
+        "views": "51"
+    },
+    {
+        "forme": "mba-nn\u025b\u0301, mba\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "foureau"
+        ],
+        "views": "56"
+    },
+    {
+        "forme": "mbap",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "viande",
+            "chair"
+        ],
+        "views": "44"
+    },
+    {
+        "forme": "mbapt'akwe\u0301, mbapt\u025bkw\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "viande sans os",
+            "sorte de plante (\u0289ricalysia)"
+        ],
+        "views": "53"
+    },
+    {
+        "forme": "mbapt\u025bkw\u025b\u0301, mbapt'akw\u00e9",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "viande sans os",
+            "sorte de plante (\u0289ricalysia)"
+        ],
+        "views": "48"
+    },
+    {
+        "forme": "mba\u0301si\u0301ku, mbasku",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "v\u00e9lo"
+        ],
+        "views": "28"
+    },
+    {
+        "forme": "mbasku, mba\u0301si\u0301ku",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "v\u00e9lo Emprunte\u0301 de l'anglais: bicycle"
+        ],
+        "views": "38"
+    },
+    {
+        "forme": "leba\u0304t",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "etre m\u00e9chant",
+            "etre s\u00e9v\u00e8re"
+        ],
+        "views": "36"
+    },
+    {
+        "forme": "mbaya, mb\u025bya",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "danse acrobatique"
+        ],
+        "views": "40"
+    },
+    {
+        "forme": "mbe, mb\u0259",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "corps",
+            "tronc"
+        ],
+        "views": "41"
+    },
+    {
+        "forme": "mbe\u0304, mb\u025b\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "larve de hanneton"
+        ],
+        "views": "38"
+    },
+    {
+        "forme": "mb\u0259, mbe",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "corps",
+            "tronc"
+        ],
+        "views": "31"
+    },
+    {
+        "forme": "mb\u0259\u2019, mbw\u0254\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "embonpoint",
+            "fagot",
+            "botte"
+        ],
+        "views": "25"
+    },
+    {
+        "forme": "mb\u025b\u0304, mbe\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "larve de hanneton"
+        ],
+        "views": "26"
+    },
+    {
+        "forme": "mbe\u0304k",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "vert (pas mur)",
+            "cru"
+        ],
+        "views": "34"
+    },
+    {
+        "forme": "mbelee\u0301k, mblik",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "brique"
+        ],
+        "views": "39"
+    },
+    {
+        "forme": "mbemb\u0254",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "route",
+            "carrossable"
+        ],
+        "views": "46"
+    },
+    {
+        "forme": "mbe\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "pluie"
+        ],
+        "views": "38"
+    },
+    {
+        "forme": "mb\u025bya, mbaya",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "danse acrobatique"
+        ],
+        "views": "26"
+    },
+    {
+        "forme": "mbh\u0289\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "chien"
+        ],
+        "views": "37"
+    },
+    {
+        "forme": "mbh\u0289\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sorte de fruit noir"
+        ],
+        "views": "33"
+    },
+    {
+        "forme": "mbh\u0289\u025b\u014bg\u0254\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sillon"
+        ],
+        "views": "38"
+    },
+    {
+        "forme": "mbhi, mvh\u0254",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "devant"
+        ],
+        "views": "35"
+    },
+    {
+        "forme": "mbi, mbi-\u014bki\u0301a\u0301n",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "couteau special pour tailler le raphia"
+        ],
+        "views": "28"
+    },
+    {
+        "forme": "bi\u0301a",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "bie\u0300re"
+        ],
+        "views": "27"
+    },
+    {
+        "forme": "mbimbi\u0301m, mbi\u0301mbi\u0301\u014bsa\u0301ambi\u0301\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "cafard"
+        ],
+        "views": "39"
+    },
+    {
+        "forme": "mbi\u0301mbi\u0301\u014bsa\u0301ambi\u0301\u014b, mbimbi\u0301m",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "cafard"
+        ],
+        "views": "39"
+    },
+    {
+        "forme": "mbi\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "fore\u0302t"
+        ],
+        "views": "36"
+    },
+    {
+        "forme": "mbi-\u014bki\u0301a\u0301, mbi",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "couteau special pour tailler le raphia"
+        ],
+        "views": "29"
+    },
+    {
+        "forme": "mbi\u0301no, mbi\u0301nu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "l'ouest"
+        ],
+        "views": "40"
+    },
+    {
+        "forme": "mbi\u0301nu, mbi\u0301no",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "l'ouest"
+        ],
+        "views": "36"
+    },
+    {
+        "forme": "mbip-memvho\u0304, mbyop-mvh\u0254\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "berger"
+        ],
+        "views": "37"
+    },
+    {
+        "forme": "mbiya\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "arachides"
+        ],
+        "views": "31"
+    },
+    {
+        "forme": "mbl\u025b\u0301\u025b, mbret",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "pain"
+        ],
+        "views": "27"
+    },
+    {
+        "forme": "mbl\u025bzi\u0301i\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "essence",
+            "gasoil"
+        ],
+        "views": "28"
+    },
+    {
+        "forme": "mblik, mbelee\u0301k",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "brique"
+        ],
+        "views": "52"
+    },
+    {
+        "forme": "mblu\u0301si",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "brosse"
+        ],
+        "views": "23"
+    },
+    {
+        "forme": "mb\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "boule"
+        ],
+        "views": "32"
+    },
+    {
+        "forme": "mbo, mbuo",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "rancune"
+        ],
+        "views": "28"
+    },
+    {
+        "forme": "mb\u0254",
+        "cat\u00e9gorie": "Conjonction (conj.)",
+        "sens": [
+            "aussi",
+            "avec",
+            "et"
+        ],
+        "views": "25"
+    },
+    {
+        "forme": "mb\u0254\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "a\u0302me",
+            "cr\u00e9ateur",
+            "destin"
+        ],
+        "views": "24"
+    },
+    {
+        "forme": "mbo\u0301kte\u0301, mbo\u0301kti",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "collection d'objets de peu de valuer",
+            "pacotille"
+        ],
+        "views": "20"
+    },
+    {
+        "forme": "mbo\u0301kti\u0301, mbo\u0301kte",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "collection d'objets de peu de valuer",
+            "pacotille"
+        ],
+        "views": "14"
+    },
+    {
+        "forme": "mbombo\u014b, mbumbu\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "albinos"
+        ],
+        "views": "13"
+    },
+    {
+        "forme": "mbo\u0304n, mbu\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "pauvre"
+        ],
+        "views": "37"
+    },
+    {
+        "forme": "mbo\u014b, epu\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "pauvre\u0302t\u00e9"
+        ],
+        "views": "19"
+    },
+    {
+        "forme": "mb\u0254\u2019\u014b\u014b\u025b\u0304, cakhutsitsia",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "souris"
+        ],
+        "views": "16"
+    },
+    {
+        "forme": "mboo, mb\u0254\u0254",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "constructeur"
+        ],
+        "views": "12"
+    },
+    {
+        "forme": "mb\u0254\u0254, mboo",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "constructeur"
+        ],
+        "views": "16"
+    },
+    {
+        "forme": "mbret, mbl\u025b\u0301\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "pain"
+        ],
+        "views": "15"
+    },
+    {
+        "forme": "m\u0301bu\u0301",
+        "cat\u00e9gorie": "Adverbe (adv.)",
+        "sens": [
+            "enti\u00e8rement"
+        ],
+        "views": "16"
+    },
+    {
+        "forme": "mbu\u0301\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "innocent"
+        ],
+        "views": "15"
+    },
+    {
+        "forme": "mbulembu\u0304, mbulimbu",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "bredouille"
+        ],
+        "views": "7"
+    },
+    {
+        "forme": "mbulimbu, mbulembu\u0304",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "bredouille"
+        ],
+        "views": "13"
+    },
+    {
+        "forme": "mbumbu\u014b, mbombo\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "albinos"
+        ],
+        "views": "16"
+    },
+    {
+        "forme": "mbu'nchu, t\u025bmbu\u0301\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sourd-muet"
+        ],
+        "views": "22"
+    },
+    {
+        "forme": "mbu\u0301\u2019nchu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "muet"
+        ],
+        "views": "7"
+    },
+    {
+        "forme": "mbu\u0304\u014b, mbo\u0304n",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "pauvre"
+        ],
+        "views": "12"
+    },
+    {
+        "forme": "mbu\u0304\u014bga",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "poisson sec",
+            "fume\u0301"
+        ],
+        "views": "9"
+    },
+    {
+        "forme": "mbu\u014bk\u0289\u0301, mbu\u0254\u014b\u0304kh\u0289",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "un des 8 jours de la semaine traditionnelle"
+        ],
+        "views": "14"
+    },
+    {
+        "forme": "mbu\u014bo\u0301, mbu\u0254",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "calcaire",
+            "kaolin",
+            "lieu de rencontre"
+        ],
+        "views": "16"
+    },
+    {
+        "forme": "mbu\u014bocu\u0301, mbu\u0254cu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "un des 8 jours de la semaine traditionnelle"
+        ],
+        "views": "22"
+    },
+    {
+        "forme": "mbu\u014bolu\u0301\u014b, mbu\u0254lo",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "un des 8 jours de la semaine traditionnelle"
+        ],
+        "views": "14"
+    },
+    {
+        "forme": "mbu\u014bwa\u0304, mbu\u0254\u014b\u0304\u014bwa",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "un des 8 jours de la semaine traditionnelle"
+        ],
+        "views": "18"
+    },
+    {
+        "forme": "mbu\u2019nsa\u2019no, esa\u0301\u2019nu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "l'est"
+        ],
+        "views": "9"
+    },
+    {
+        "forme": "mbuo, mbo",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "rancune"
+        ],
+        "views": "17"
+    },
+    {
+        "forme": "mbu\u0254\u0301, mbu\u014bo",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "calcaire",
+            "kaolin",
+            "lieu de rencontre"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "mbu\u0254cu\u0301, mbu\u014bocu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "un des 8 jours de la semaine traditionnelle"
+        ],
+        "views": "15"
+    },
+    {
+        "forme": "mbu\u0254lo\u0301, mbu\u014bolu\u0301\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "un des 8 jours de la semaine traditionnelle"
+        ],
+        "views": "10"
+    },
+    {
+        "forme": "mbu\u0254\u014b\u0304kh\u0289\u0301, mbu\u014bk\u0289",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "un des 8 jours de la semaine traditionnelle"
+        ],
+        "views": "16"
+    },
+    {
+        "forme": "mbu\u0254\u014b\u0304\u014bwa\u0301, mbu\u014bwa\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "un des 8 jours de la semaine traditionnelle"
+        ],
+        "views": "15"
+    },
+    {
+        "forme": "mbw\u025b\u0301li\u0301, mbw\u025b\u0301n\u00e9",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "paix",
+            "b\u00e9n\u00e9diction"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "mbw\u025b\u0301ne\u0301, mbw\u025b\u0301li",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "paix",
+            "be\u0301n\u00e9diction"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "mbwenjh\u0289, mbw\u025b\u0301t-njh\u0289\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "apre\u0300s-midi"
+        ],
+        "views": "12"
+    },
+    {
+        "forme": "mbw\u025b\u0301t-njh\u0289\u0304, mbwenjh\u0289\u0301",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "apre\u0300s-midi"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "mbw\u0254\u2019, mb\u0259\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "embonpoint",
+            "fagot",
+            "botte"
+        ],
+        "views": "15"
+    },
+    {
+        "forme": "mbw\u0254\u0304p, apw\u0254\u0304p",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "bouc"
+        ],
+        "views": "24"
+    },
+    {
+        "forme": "mbyop-mvh\u0254\u0304, mbip-memvho\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "berger"
+        ],
+        "views": "20"
+    },
+    {
+        "forme": "C\u0289c\u0289",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "oiseau hypnotique",
+            "mauvais sort"
+        ],
+        "views": "9"
+    },
+    {
+        "forme": "lec\u0289, lic\u0289",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "regarder",
+            "fixer"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "lec\u0289'ne, lic\u0289\u2019li",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "agiter",
+            "secouer"
+        ],
+        "views": "10"
+    },
+    {
+        "forme": "lec\u0289\u2019, lic\u0289\u0304",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "tamiser",
+            "secouer"
+        ],
+        "views": "9"
+    },
+    {
+        "forme": "ac\u0289\u2019, lic\u0289\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "endroit",
+            "lieu"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "lec\u0289\u2019, lic\u0289\u0304\u2019",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "laisser",
+            "rester",
+            "devenir"
+        ],
+        "views": "12"
+    },
+    {
+        "forme": "acag\u0259\u0301, atsyaki",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "esp\u00e8ce d'oiseau"
+        ],
+        "views": "10"
+    },
+    {
+        "forme": "cakhutsitsia, mb\u0254\u2019\u014b\u014b\u025b\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "souris"
+        ],
+        "views": "10"
+    },
+    {
+        "forme": "cakl\u025basak\u025b, asekl\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "tamis"
+        ],
+        "views": "9"
+    },
+    {
+        "forme": "acakupakup, atsyaku\u0304m",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "semence de raphia"
+        ],
+        "views": "13"
+    },
+    {
+        "forme": "ac\u0289ch\u0289",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "chenille"
+        ],
+        "views": "10"
+    },
+    {
+        "forme": "ac\u0289'e, ac\u0289'\u025b",
+        "cat\u00e9gorie": "Locution pr\u00e9positionnelle (loc pr\u00e9p.)",
+        "sens": [
+            "au lieu de"
+        ],
+        "views": "6"
+    },
+    {
+        "forme": "ac\u0289\u2019\u025b, ac\u0289\u2019e",
+        "cat\u00e9gorie": "Locution pr\u00e9positionnelle (loc pre\u0301p..)",
+        "sens": [
+            "au lieu de"
+        ],
+        "views": "14"
+    },
+    {
+        "forme": "ach\u0289ne",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "bal",
+            "reveillon"
+        ],
+        "views": "17"
+    },
+    {
+        "forme": "nch\u0289",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "salete\u0301",
+            "anus"
+        ],
+        "views": "16"
+    },
+    {
+        "forme": "lech\u0289, lich\u0289",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "e\u0301craser",
+            "cr\u00e9pir",
+            "goudronner",
+            "Repasser (linge)"
+        ],
+        "views": "14"
+    },
+    {
+        "forme": "nchu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "bouche",
+            "entry"
+        ],
+        "views": "15"
+    },
+    {
+        "forme": "nchu \u014bgya\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "porte"
+        ],
+        "views": "15"
+    },
+    {
+        "forme": "nchun\u0304ze\u0301m, nts\u0259\u0259ti-nze\u0301m",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "cr\u00e9puscule"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "nc\u0289\u2019nzem, ntsi\u2019nzem",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "cadet"
+        ],
+        "views": "8"
+    },
+    {
+        "forme": "nc\u0289\u0254, nts\u0259",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "legume de feuilles de courge"
+        ],
+        "views": "9"
+    },
+    {
+        "forme": "lec\u0289\u0254, licua",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "bouillir l\u00e9g\u00e8rement pour conserver (l\u00e9gume",
+            "viande)"
+        ],
+        "views": "6"
+    },
+    {
+        "forme": "ec\u0254\u2019, ets\u0259\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "peur"
+        ],
+        "views": "9"
+    },
+    {
+        "forme": "lec\u0254\u2019, lits\u0259\u2019",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "avoir peur",
+            "craindre",
+            "be\u0301nir un mariage traditionnellement"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "c\u0254\u2019, ts\u0259\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "serviteur du chef"
+        ],
+        "views": "15"
+    },
+    {
+        "forme": "ac\u0254\u2019, ats\u0259\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "coiffure",
+            "chapeau"
+        ],
+        "views": "7"
+    },
+    {
+        "forme": "lec\u0254kne, litswagli",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "\u00e9ternuer",
+            "avoir une altercation avec qqn"
+        ],
+        "views": "9"
+    },
+    {
+        "forme": "nc\u0254\u0304k",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "s\u00e9v\u00e9ret\u00e9",
+            "rigueur"
+        ],
+        "views": "10"
+    },
+    {
+        "forme": "lec\u0254\u0304k, litsek",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "gronder",
+            "e\u0302tre acide"
+        ],
+        "views": "13"
+    },
+    {
+        "forme": "ac\u0254k\u0254\u0301, ake\u0301e",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "acide",
+            "aigre"
+        ],
+        "views": "6"
+    },
+    {
+        "forme": "lec\u0254kte, litsekti",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "donner des signes de malaise (jumeaux)"
+        ],
+        "views": "9"
+    },
+    {
+        "forme": "lico\u0304p, lec\u0254\u0304p",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "chercher (bois de chauffage)",
+            "Aller tout droit"
+        ],
+        "views": "14"
+    },
+    {
+        "forme": "nc\u0254p",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "f\u00e9tiche de protection de biens"
+        ],
+        "views": "7"
+    },
+    {
+        "forme": "lec\u0254\u0304p, lico\u0304p",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "chercher (bois de chauffage)",
+            "aller tout droit"
+        ],
+        "views": "8"
+    },
+    {
+        "forme": "C\u0254\u2019sa\u014b, zs\u0259\u2019sa\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "\u00e9toile"
+        ],
+        "views": "10"
+    },
+    {
+        "forme": "lec\u0289\u0289te, lic\u0289\u0289ti",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "regarder",
+            "veiller",
+            "surveiller"
+        ],
+        "views": "7"
+    },
+    {
+        "forme": "ncu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "guerre"
+        ],
+        "views": "6"
+    },
+    {
+        "forme": "acu\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "fardeau"
+        ],
+        "views": "7"
+    },
+    {
+        "forme": "lecu\u2019, licu\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            ""
+        ],
+        "views": "9"
+    },
+    {
+        "forme": "lecu\u2019, licu\u2019",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "aboyer",
+            "rincer"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "lecu\u0304, licu\u0304",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "descendre",
+            "attacher l\u00e9g\u00e8rement"
+        ],
+        "views": "8"
+    },
+    {
+        "forme": "lecu\u0304\u2019, licu\u0304'",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "hacher",
+            "casser",
+            "fendre"
+        ],
+        "views": "13"
+    },
+    {
+        "forme": "licua, lec\u0289\u0254",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "bouillir l\u00e9g\u00e8rement pour conserver (l\u00e9gume",
+            "viande)"
+        ],
+        "views": "8"
+    },
+    {
+        "forme": "licu\u2019 / lipa\u0304k, lewu\u0304p",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "aboyer"
+        ],
+        "views": "13"
+    },
+    {
+        "forme": "acu\u014b, atso\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "poire"
+        ],
+        "views": "8"
+    },
+    {
+        "forme": "lecu\u014b, litso\u014b",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "purger"
+        ],
+        "views": "4"
+    },
+    {
+        "forme": "ncu\u014b, ntso",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "h\u00e9ron"
+        ],
+        "views": "6"
+    },
+    {
+        "forme": "lecu\u0304\u014b, litso\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "noeud"
+        ],
+        "views": "7"
+    },
+    {
+        "forme": "lecu\u0304\u014b, litso\u0304\u014b",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "faire un noeud",
+            "nouer"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "ecu\u014b nt\u0254\u014b, etso\u0304n\u0301t\u0254\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "collier"
+        ],
+        "views": "9"
+    },
+    {
+        "forme": "acu\u014bo cu\u0301\u014bo\u0301, acu\u014b\u0254 cu\u0301\u014b\u0254",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "\u00e9ternit\u00e9"
+        ],
+        "views": "5"
+    },
+    {
+        "forme": "acu\u014b\u0254 cu\u0301\u014b\u0254, acu\u014bo cu\u0301\u014bo\u0301",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "\u00e9ternit\u00e9"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "lecu\u014bte, litso\u014bti",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "arranger",
+            "fabriquer"
+        ],
+        "views": "6"
+    },
+    {
+        "forme": "licu\u2019o, lebaka",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "entasser, accumuler"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "lecup, licup",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "cotiser"
+        ],
+        "views": "10"
+    },
+    {
+        "forme": "ncup",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "quete"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "lecupte, licupti",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "contribuer",
+            "cotiser",
+            "rassembler des dons"
+        ],
+        "views": "14"
+    },
+    {
+        "forme": "lecu\u2019te, licu\u2019ti",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "rassembler",
+            "r\u00e9unir"
+        ],
+        "views": "8"
+    },
+    {
+        "forme": "lecu\u2019te, licu'ti",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "secouer un bocal pour le rincer"
+        ],
+        "views": "9"
+    },
+    {
+        "forme": "acu\u2019te",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "rassemblement",
+            "r\u00e9union",
+            "assises"
+        ],
+        "views": "5"
+    },
+    {
+        "forme": "nd\u0289",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "liane de raphia"
+        ],
+        "views": "10"
+    },
+    {
+        "forme": "nd\u0289",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "liane de raphia"
+        ],
+        "views": "11"
+    },
+    {
+        "forme": "nd\u0289\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "tam-tam",
+            "controverse"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nd\u0289\u0289nd\u0289\u0301e, nd\u0289\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "adulte"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "n\u2019da\u0301\u2019",
+        "cat\u00e9gorie": "Adverbe (adv.)",
+        "sens": [
+            "plus tard"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nda\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "reste"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ndaa\u0301njh\u0289",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "aube"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "ndaanjh\u0289, nzem\u025b\u0301 n\u0301ze\u0304m",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "matin"
+        ],
+        "views": "5"
+    },
+    {
+        "forme": "nda\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "bo\u0302ite"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "ndap",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "fil fin"
+        ],
+        "views": "5"
+    },
+    {
+        "forme": "nde, nd\u0259",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "grelots"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nde, nd\u0259",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "vampire"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nd\u0289e, nd\u0289\u0254",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "vagin"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nd\u0259, nde",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "vampire"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "nd\u025b, nde",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "grelots"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "nd\u0289\u025b, nd\u0289\u0289nd\u0289\u0301e",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "adulte"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nd\u0259\u0301, and\u0289\u0304\u0254\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "chauve-souris"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ndeeti, nd\u025b\u025bte",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sorte d'arbuste"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ndeete",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sucrerie"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "nd\u025b\u025bte, ndeeti",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sorte d'arbuste"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nd\u00e9g\u00e9, ndek\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "Blanc"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ndek\u025b\u0301, nde\u0301ge",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "Blanc"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nde\u0301m",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "Dieu",
+            "dieu"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "nde\u0301m n\u0301de\u0304m, ndi\u0301nde\u0304m",
+        "cat\u00e9gorie": "Nom/Adjectif (n adj.)",
+        "sens": [
+            "inutile",
+            "rien",
+            "vide"
+        ],
+        "views": "7"
+    },
+    {
+        "forme": "ndend\u0254\u0304\u014b, ndind\u0254\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "flu\u0302te",
+            "sorte de danse"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nde\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "bambous de raphia"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "nde\u014be nde\u0301\u014be\u0301, nnd\u025b\u014b\u025b nd\u025b\u0301\u014b\u025b\u0301",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "lointain",
+            "horizon"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "nd\u025b\u014b\u025b nd\u025b\u0301\u014b\u025b\u0301, nde\u014be nde\u0301\u014b\u00e9",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "lointain",
+            "horizon"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nde\u014b nde\u014b",
+        "cat\u00e9gorie": "Adjectif/Adverbe (adj adv.)",
+        "sens": [
+            "droit",
+            "juste",
+            "vrai",
+            "droitement",
+            "equitablement"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nd\u0259nhu, nd\u0289\u025bnu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "qqch d'extraordinaire",
+            "d'horrible"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nd\u0289\u025bnu, nd\u0259nhu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "qqch d'extraordinaire",
+            "d'horrible"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nd\u0289ep, nd\u0289\u0304p",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "manche de recipiant"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ndh\u0289, ndh\u0289ndh\u0289e",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "limite",
+            "mal de ventre persistant"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ndh\u0289ndh\u0289e, ndh\u0289",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "limite",
+            "mal de ventre persistant"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ndhi\u0304, \u014bghi\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "fume\u0301e"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ndhimo\u0304, \u014bghim\u0254\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "berceur"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ndhu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "parente\u0301 eloigne\u0301e"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ndi",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "seigneur"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ndi\u025bkend\u0254\u014b, ntsua ak\u0289nd\u0254\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "feuilles morte de bananier"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ndik, \u014bgik",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "ai\u0302ne\u0301(e)"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "ndiknzemnzweknzem, nzoknzem",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "dernier"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "ndi\u0301n\u0301de\u0304m, nde\u0301m n\u0301de\u0304m",
+        "cat\u00e9gorie": "Nom/Adjectif (n adj.)",
+        "sens": [
+            "inutile",
+            "rien",
+            "vide"
+        ],
+        "views": "7"
+    },
+    {
+        "forme": "ndindhi\u0301, \u014bgwi\u014bgwhi",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "condiment de la sauce jaune et du mpf\u0289"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ndind\u0254\u014b, ndend\u0254\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "flu\u0302te",
+            "sorte de danse"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ndlapo",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "drapeau"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ndo, nduo",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "dessus",
+            "sommet",
+            "semence d'igname",
+            "rat",
+            "milieu du cra\u0302ne"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ndo\u0304, ndu\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "mari"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "nd\u0254",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "mal\u00e9diction"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nd\u0254\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "mendicit\u00e9"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nd\u0254kfa\u0301wu, alelandokfao",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "canard"
+        ],
+        "views": "4"
+    },
+    {
+        "forme": "nd\u0254\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "paresseux"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nd\u0254\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "corne",
+            "verre",
+            "klaxon"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nd\u0254\u0254te\u0301, ndooti",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "de\u0301chet, salet\u00e9"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "ndooti\u0301, nd\u0254\u0254te",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "de\u0301chet, salete\u0301"
+        ],
+        "views": "4"
+    },
+    {
+        "forme": "nd\u0254p",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "\u00e9charpe traditionnelle pour deuil"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ndope\u0301pl\u025b\u0301\u025b (pl\u025b\u0301\u025b), ndu\u014bp\u025b\u0301l\u025bp\u025bl\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "l\u00e9zard"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "nd\u0289\u0304p, nd\u0289ep",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "manche de recipient"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ndu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "rivi\u00e8re",
+            "marigot",
+            "bas-fond"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ndu\u014b, nz\u025b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "rat"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ndu\u0304\u014b, ndo\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "mari"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "ndu\u014bp\u025b\u0301l\u025bp\u025bl\u025b, ndop\u00e9pl\u025b\u0301\u025b (pl\u025b\u0301\u025b)",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "l\u00e9zard"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "nduo, ndo",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "dessus",
+            "sommet",
+            "semence d'igname",
+            "rat",
+            "milieu du cra\u0302ne"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "nduoala, ndu\u0254la",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "enclume"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ndu\u0254la, nduoala",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "enclume"
+        ],
+        "views": "4"
+    },
+    {
+        "forme": "ndw\u025bt",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "potion pour cer\u00e9monie des jumeaux"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "mefu\u0301\u2019, mafu\u0301\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sorte de plante (Spathodea campanulata)"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "mefyopti, meswimne",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sentier entre deux haies"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "egee\u0301g\u0289, e\u0301hie\u0301hi\u2019e\u0304",
+        "cat\u00e9gorie": "Pronom (pron.)",
+        "sens": [
+            "L\u00e0-bas"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "e\u2019hie\u0301hi\u2019e\u0304, e\u0301gee\u0301g\u0289",
+        "cat\u00e9gorie": "Pronom (pron.)",
+        "sens": [
+            "l\u00e0-bas"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "meko\u0304 n\u0301de\u0304k\u025b\u0301, meku\u0304o\u0304 n\u0301de\u0304g\u0259\u0301",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "soja (chonozia)",
+            "tout haricot importe\u0301"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "e\u0301la\u0304, la\u0301",
+        "cat\u00e9gorie": "Adverbe (adv.)",
+        "sens": [
+            "combien"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "melegmelwag, ayakmeyak",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "colis"
+        ],
+        "views": "4"
+    },
+    {
+        "forme": "epa\u0301p pa\u0304p",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "tachet\u00e9"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "esambi\u0304a\u0304, saambi\u0304a\u0304",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "sept"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "esa\u2019 nu, nsa\u2019no",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "lever du soleil",
+            "L\u2019est"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "esa\u0301\u2019nu, mbu\u2019nsa\u2019no",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "l\u2019est"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "Es\u0259\u0304, ese\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "honte"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "esesa\u2019, esa\u2019 mmo\u0301k",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "\u00e9tincelle"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "eseso, gigi",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "tisserin"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "esh\u0289e ntsh\u025b, esh\u0289\u0254ntshi",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "hippopotame"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "eshh\u0289 mb\u0254\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "chanceux"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "eswhi\u0304, fhi",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "neuf",
+            "nouveau"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "eswhi (mena\u014b), eswhe mena\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "huile de palmiste"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "eswiki\u0301, tu eswi\u0301k",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "feuille de bourgeon de bambou"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "etso\u2019tso\u0304\u2019, etswe\u2019tswe\u2019",
+        "cat\u00e9gorie": "Adverbe (adv.)",
+        "sens": [
+            "de tr\u00e8s bonne heure"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ez\u0254\u0301, ezo",
+        "cat\u00e9gorie": "Adverbe (adv.)",
+        "sens": [
+            "demain",
+            "hier"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lef\u0289', lif\u0289\u2019",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "peser",
+            "mesurer"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lef\u0289\u2019ne, lif\u0289\u2019li",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "imiter",
+            "essayer"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "af\u0289\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "saison",
+            "p\u00e9riode",
+            "temps",
+            "moment"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ef\u0289\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "temps",
+            "mesure"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefa, lifa",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "se tromper",
+            "p\u00e9cher"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefa",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "se tromper",
+            "avoir tort"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "mefa",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "faute",
+            "erreur",
+            "culpabilite\u0301"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lefa\u2019, lifa\u2019",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "chercher",
+            "rechercher"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "afa\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "travail"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lefa\u0301lefaa\u0301, lifaa\u0301",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "huit"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "lefa\u0304, lifa\u0304",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "arroser",
+            "asperger"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lifa\u0304, lefa\u0304",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "arroser",
+            "asperger"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefaane, lifaali",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "se tromper",
+            "faire qqch par m\u00e9garde"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "efa\u2019a",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "un des 8 jours de la semaine traditionnelle"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lefaa\u0301",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "cinq"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lifaa\u0301lefa\u0301, lefaa\u0301",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "huit"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "fa\u0301fa\u0301n\u0301ta\u0301\u014b, kofa\u0301nta\u0301\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "oiseau de bonne augure"
+        ],
+        "views": "5"
+    },
+    {
+        "forme": "lifagli, lefakne",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "se\u0301parer",
+            "se s\u00e9parer"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefak, lifak",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "s\u00e9parer d'un coup sec",
+            "briser"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefakne, lifagli",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "s\u00e9parer",
+            "se s\u00e9parer"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefa\u0304k, lifa\u0304k",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "jumeau"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lefa\u014b, lifa\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "tonnerre"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefa\u014bne, lifa\u014bli",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "effrayer"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefa\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "noix de palme"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lefa\u014bmbe\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "association de classe d\u2019a\u0302ge"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "afat, af\u025b\u0304t",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "lien familial",
+            "bouchon"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lifat, lef\u025bt",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "s'occuper d'une femme qui vient d'accoucher"
+        ],
+        "views": "7"
+    },
+    {
+        "forme": "lifa\u0304t, lef\u025b\u0304t",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "bourrer",
+            "boucher herm\u00e9tiquement"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "afa\u2019te, afa\u2019ti",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "rhume",
+            "grippe"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefa\u2019te, lifa\u2019ti",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "taquiner",
+            "provoquer qqn"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lefe, lif\u0289e",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "fermer hermetiquement (une porte)"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "life, lef\u025b\u0304",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "conclure d\u00e9finitivement une vente",
+            "degringoler"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "fe, f\u0289e",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "manche de la hache"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "afe, af\u0289e",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "constipation"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "f\u0289e, fe",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "manche de la hache"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "af\u0289eli, afu\u0254ne",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "famine"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "af\u0289e, afe",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "constipation"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lif\u0289e, lefe",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "fermer hermetiquement (une porte)"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ef\u0289\u0301e\u0301, efe",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "tibia"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "life\u2019, lef\u025b\u2019",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "s'acquitter d'une obligation morale vis-\u00e0-vis des ance\u0302tres"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "afe\u2019, af\u025b\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "c\u00e9r\u00e9monie sacrificielle"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "efe\u0301, ef\u0289\u0301e",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "tibia"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "afe\u0301, af\u025b\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "ze\u0300le"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "afe\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "pression"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lef\u025b\u2019, life\u2019",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "s'acquitter d'une obligation morale vis-\u00e0-vis des ance\u0302tres"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "af\u025b\u2019, afe\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "c\u00e9r\u00e9monie sacrificielle"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "lef\u025b\u0304, life",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "conclure d\u00e9finitivement une vente",
+            "degringoler"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "af\u025b\u0304, afe",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "z\u00e8le"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefeene, lif\u0259\u0259li",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "harceler"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lif\u0259\u0259li, lefeene",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "harceler"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "fe\u0301em",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sorte de tribunal traditionnel",
+            "grande plantation emprunt\u00e9e de l'anglais: farm"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "f\u00e9fh\u0254\u0301",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "blanc"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "fefhombe\u014b, fh\u0254\u0304fho mbe\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "pluie fine"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lifeg\u0259, lefe\u014b",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "garder",
+            "reserver",
+            "ajourner"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefek, lifek",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "bambou de chine"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "efek, efw\u0254\u0304k",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "air froid"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "life\u0304k, lefw\u0254\u0304k",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "souffler"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "af\u0289eli\u0301inziku\u2019u\u0301, atem",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "famine"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefem, lifem",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "moisir",
+            "e\u0302tre sale"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "afemne, afemli",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "malpropret\u00e9",
+            "selles"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "afem, afem\u025b\u0301",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "moisi(e)"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefemne, lifemli",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "e\u0302tre habituellement malpropre"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "lefe\u0301m, life\u0304m",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "bois (fore\u0302t) sacr\u00e9 de la chefferie"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "afe\u0301m, afe\u0304m",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "tornade"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "life\u0304m, lefe\u0301m",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "bois (fore\u0302t) sacr\u00e9 de la chefferie"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lefe\u0304m, life\u0304m",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "s'etouffer"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "afem\u025b\u0301, afem",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "moisi(e)"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "afemte",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "e\u0301tourderie"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lef\u025bnne",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "pistonner"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "efe\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "blessure"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefe\u014bne, life\u014bli",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "chanceler"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefe\u014bne, life\u014bli",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "esquiver"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "afe\u0301\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "fosse",
+            "termiti\u00e8re"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "afe\u0301\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sorte de moustique"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefe\u0304\u014b, lifeg\u0259",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "garder",
+            "r\u00e9server",
+            "ajourner"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lef\u025bt, lifat",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "s'occuper d'une femme qui vient d'accoucher"
+        ],
+        "views": "4"
+    },
+    {
+        "forme": "lif\u025btti, lepf\u025btte",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "e\u0302tre d\u00e9sordonn\u00e9",
+            "\u00e9chevel\u00e9"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ef\u025bt",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "\u00e9ecorce s\u00e8che de bananier"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "af\u025b\u0304t, afat",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "lien familial",
+            "bouchon"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lef\u025b\u0304t, lifa\u0304t",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "bourrer",
+            "boucher herme\u0301tiquement"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "ef\u0289'etsem",
+        "cat\u00e9gorie": "Adverbe (adv.)",
+        "sens": [
+            ""
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "f\u0289fw\u025btfefw\u025bt, fufw\u025bt",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "vent",
+            "saint-esprit"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lifhi, leswhi",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "refuser de donner",
+            "couvrir un toit"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lifhili, leswhiine",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "se ressembler"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "fhi, eswhi\u0304",
+        "cat\u00e9gorie": "Adjectif (adj.)",
+        "sens": [
+            "neuf",
+            "nouveau"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "lifhi\u0304, leswhi\u0304",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "ressembler"
+        ],
+        "views": "3"
+    },
+    {
+        "forme": "fhi\u0301-nnu\u0304, sw\u025b\u0301nnu\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "boa",
+            "python"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "afho, afhu",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "feuille",
+            "m\u00e9dicament"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefho, lifh\u0254",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "asperger"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lefho\u0304, lifu\u0304",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "provenir",
+            "fouiller en profondeur"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "efho\u0304",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "pus"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lifh\u0254, lefho",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "asperger"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "fh\u0254\u0304fho mbe\u014b, fefhombe\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "pluie fine"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "fholeka\u0304\u014b, fholika\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "quinqueliba blanc"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "fholika\u0304\u014b, fholeka\u0304\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "quinqueliba blanc"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "afho\u0254si\u0304, f\u0254fhuafhusi",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "poudre traditionnelle sur les cra\u0302nes lors des c\u00e9r\u00e9monies"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lefh\u0289te, lifh\u0289ti",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "r\u00e9flechir",
+            "penser"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "afh\u0289te, lifh\u0289ti",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "raisonnement",
+            "pens\u00e9e"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "afhu, afho",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "feuille",
+            "m\u00e9dicament"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lifi\u0301, leswi\u0304",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "se refroidir"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lifia, leswia",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "s\u2019\u00e9crouler"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "efia, eswia",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "touterelle"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "fifhiamafhia, swi\u0301swhi\u025b\u0301",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "sorte de l\u00e9gume"
+        ],
+        "views": "5"
+    },
+    {
+        "forme": "afifi\u0301, aswiswi",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "h\u00e9morragie nazale"
+        ],
+        "views": "4"
+    },
+    {
+        "forme": "lifiiti, leswiite",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "se reposer",
+            "aller un peu mieux"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "fimba\u014bgla\u0301si",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "tisane"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "efi\u014b, eswi\u014b",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "vari\u00e9t\u00e9 d'igname"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "lifi\u014b, leswi\u014b",
+        "cat\u00e9gorie": "Verbe (v.)",
+        "sens": [
+            "vendre",
+            "\u00e9corcher"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "af\u0289\u0289\u0301-me\u0304ne\u0304k, af\u0289\u0289\u0301me\u0304ne\u0304k",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "aveugle"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "af\u0289\u0289\u0301me\u0304ne\u0304k, af\u0289\u0289\u0301-me\u0304ne\u0304k",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "aveugle"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "ef\u0289\u2019mvh\u0254",
+        "cat\u00e9gorie": "Adverbe (adv.)",
+        "sens": [
+            "auparavent",
+            "autrefois"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "efo, ef\u0254",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "chef"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "lifo, lef\u0254",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "royaut\u00e9",
+            "dynastie"
+        ],
+        "views": "1"
+    },
+    {
+        "forme": "fo\u2019, fu\u2019",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "tarantule"
+        ],
+        "views": "2"
+    },
+    {
+        "forme": "fo\u0301, f\u0254\u0301",
+        "cat\u00e9gorie": "Nom (n.)",
+        "sens": [
+            "pou"
+        ],
+        "views": "3"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "cat": "Campings",
+        "nombre": 227
+    },
+    {
+        "cat": "H\u00f4tels",
+        "nombre": 190
+    },
+    {
+        "cat": "Chambres d'h\u00f4tes",
+        "nombre": 43
+    },
+    {
+        "cat": "R\u00e9sidences de tourisme",
+        "nombre": 125
+    },
+    {
+        "cat": "Villages et centres de vacances",
+        "nombre": 25
+    },
+    {
+        "cat": "Auberges de jeunesse",
+        "nombre": 34
+    },
+    {
+        "cat": "Restaurants",
+        "nombre": 8
+    },
+    {
+        "cat": "G\u00eetes et Meubl\u00e9s",
+        "nombre": 62
+    }
+]
