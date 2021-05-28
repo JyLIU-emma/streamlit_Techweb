@@ -1,0 +1,194 @@
+[
+    {
+        "id_dico": "gb_fr_2019",
+        "abbr_name": "gb_fr",
+        "long_name": "Dictionnaire bilingue ngiemboon-fran\u00e7ais",
+        "review_year": 2019,
+        "nbre_articles": 3,
+        "nbre_view": 20
+    },
+    {
+        "id_dico": "ful_fr_2020",
+        "abbr_name": "ful_fr",
+        "long_name": "dictionnaire bilingue fulfulde-fran\u00e7ais",
+        "review_year": 2020,
+        "nbre_articles": 6779,
+        "nbre_view": 2949
+    },
+    {
+        "id_dico": "med_fr_2020",
+        "abbr_name": "med_fr",
+        "long_name": "Mini dictionnaire med\u0289mba-fran\u00e7ais",
+        "review_year": 2020,
+        "nbre_articles": 238,
+        "nbre_view": 1272
+    },
+    {
+        "id_dico": "swh_fr_2020",
+        "abbr_name": "swh_fr",
+        "long_name": "Petit Dictionnaire swahili-fran\u00e7ais",
+        "review_year": 2020,
+        "nbre_articles": 1,
+        "nbre_view": 3
+    },
+    {
+        "id_dico": "\u014bk\u0300u\u0300_fr_2020",
+        "abbr_name": "\u014bk\u0300u\u0300-fr",
+        "long_name": "MINI DICTIONNAIRE BILINGUE \u014bk\u0300u\u0300n\u00e0b\u00e9mb\u00e9-fran\u00e7ais",
+        "review_year": 2020,
+        "nbre_articles": 402,
+        "nbre_view": 1281
+    },
+    {
+        "id_dico": "yb_fr_3031",
+        "abbr_name": "yb_fr",
+        "long_name": "Petit dictionnaire y\u00e9mba-fran\u00e7ais",
+        "review_year": 2017,
+        "nbre_articles": 3032,
+        "nbre_view": 21707
+    },
+    {
+        "id_dico": "yang_fr_2020",
+        "abbr_name": "yang_fr",
+        "long_name": "Dictionnaire bilingue yangben-fran\u00e7ais",
+        "review_year": 2020,
+        "nbre_articles": 205,
+        "nbre_view": 685
+    },
+    {
+        "id_dico": "so_fr_2020",
+        "abbr_name": "so-fr",
+        "long_name": "Dictionnaire trilingue soninke-fran\u00e7ais-anglais",
+        "review_year": 2020,
+        "nbre_articles": 7182,
+        "nbre_view": 672
+    },
+    {
+        "id_dico": "nd_fr_2020",
+        "abbr_name": "nd_fr",
+        "long_name": "Dictionnaire ndemli-fran\u00e7ais",
+        "review_year": 2020,
+        "nbre_articles": 221,
+        "nbre_view": 556
+    },
+    {
+        "id_dico": "bu_fr_2020",
+        "abbr_name": "bu-fr",
+        "long_name": "Dictionnaire bilingue  bulu-fran\u00e7ais",
+        "review_year": 2020,
+        "nbre_articles": 227,
+        "nbre_view": 71
+    },
+    {
+        "id_dico": "gho_fr_2020",
+        "abbr_name": "gho_fr",
+        "long_name": "Dictionnaire ghomala-fran\u00e7ais",
+        "review_year": 2020,
+        "nbre_articles": 840,
+        "nbre_view": 1358
+    },
+    {
+        "id_dico": "bm_fr_11487",
+        "abbr_name": "bm_fr",
+        "long_name": "Dictionnaire \u00e9lectronique bambara-fran\u00e7ais, avec un index fran\u00e7ais-bambara",
+        "review_year": 2018,
+        "nbre_articles": 11487,
+        "nbre_view": 1400
+    },
+    {
+        "id_dico": "ban_fr_2020",
+        "abbr_name": "mbo_fr",
+        "long_name": "Dictionnaire bilingue mbo-fran\u00e7ais",
+        "review_year": 2020,
+        "nbre_articles": 0,
+        "nbre_view": 0
+    },
+    {
+        "id_dico": "ma_fr_2020",
+        "abbr_name": "ma_fr",
+        "long_name": "Dictionnaire  bilingue mafa-fran\u00e7ais",
+        "review_year": 2020,
+        "nbre_articles": 402,
+        "nbre_view": 454
+    },
+    {
+        "id_dico": "dl_fr_2018",
+        "abbr_name": "dl_fr",
+        "long_name": "Grand dictionnaire bilingue duala-fran\u00e7ais / fran\u00e7ais-duala",
+        "review_year": 2018,
+        "nbre_articles": 192,
+        "nbre_view": 818
+    },
+    {
+        "id_dico": "bs_fr_2019",
+        "abbr_name": "bs_fr",
+        "long_name": "Dictionnaire bilingue bassa-fran\u00e7ais",
+        "review_year": 2019,
+        "nbre_articles": 728,
+        "nbre_view": 1686
+    },
+    {
+        "id_dico": "eja_fr_2020",
+        "abbr_name": "eja_fr",
+        "long_name": "Mini dictionnaire bilingue ejagham-fran\u00e7ais",
+        "review_year": 2020,
+        "nbre_articles": 201,
+        "nbre_view": 520
+    },
+    {
+        "id_dico": "nu_fr_2020",
+        "abbr_name": "fe_fr",
+        "long_name": "Dictionnaire feefee-fran\u00e7ais",
+        "review_year": 2020,
+        "nbre_articles": 922,
+        "nbre_view": 1518
+    },
+    {
+        "id_dico": "et-fr-2021",
+        "abbr_name": "et-fr",
+        "long_name": "Dictionnaire bilingue Eton-Fran\u00e7ais",
+        "review_year": 2021,
+        "nbre_articles": 201,
+        "nbre_view": 511
+    },
+    {
+        "id_dico": "mu-fr-2021",
+        "abbr_name": "mu-fr",
+        "long_name": "Dictionnaire bilingue musey-fran\u00e7ais",
+        "review_year": 2021,
+        "nbre_articles": 3,
+        "nbre_view": 4
+    },
+    {
+        "id_dico": "tu-fr-2021",
+        "abbr_name": "tu-fr",
+        "long_name": "Dictionnaire bilingue tun\u0259n-fran\u00e7ais",
+        "review_year": 2021,
+        "nbre_articles": 200,
+        "nbre_view": 4
+    },
+    {
+        "id_dico": "di-fr-2021",
+        "abbr_name": "di-fr",
+        "long_name": "Dictionnaire bilingue dibom-fran\u00e7ais",
+        "review_year": 2021,
+        "nbre_articles": 200,
+        "nbre_view": 200
+    },
+    {
+        "id_dico": "ok-en-2021",
+        "abbr_name": "ok-en",
+        "long_name": "Oku-English bilingual dictionary",
+        "review_year": 2021,
+        "nbre_articles": 200,
+        "nbre_view": 443
+    },
+    {
+        "id_dico": "\u014bg-fr-2021",
+        "abbr_name": "\u014bg-fr",
+        "long_name": "Dictionnaire bilingue \u014bg\u0259mba-fran\u00e7ais",
+        "review_year": 2021,
+        "nbre_articles": 207,
+        "nbre_view": 677
+    }
+]

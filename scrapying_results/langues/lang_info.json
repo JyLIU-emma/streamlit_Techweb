@@ -1,0 +1,138 @@
+[
+    {
+        "id": "gb",
+        "url": "https://fr.wikipedia.org/wiki/Ngiemboon",
+        "pays": "Cameroun",
+        "pays_count": 1,
+        "nbre_locuteurs": "250\u00a0000 (2000)",
+        "chiffre": 250000
+    },
+    {
+        "id": "ful",
+        "url": "https://fr.wikipedia.org/wiki/Peul",
+        "pays": "Mauritanie, S\u00e9n\u00e9gal, Mali, Guin\u00e9e, Burkina Faso, Niger, Nigeria, Gambie, Tchad, Sierra Leone, B\u00e9nin, Guin\u00e9e-Bissau, Soudan, Soudan-du-Sud, R\u00e9publique centrafricaine,Ghana, Togo, Cameroun, C\u00f4te d'Ivoire, R\u00e9publique d\u00e9mocratique du Congo.",
+        "pays_count": 20,
+        "nbre_locuteurs": "27\u00a0754\u00a0340",
+        "chiffre": 27754340
+    },
+    {
+        "id": "med",
+        "url": "https://fr.wikipedia.org/wiki/Medumba",
+        "pays": "Cameroun",
+        "pays_count": 1,
+        "nbre_locuteurs": "210\u00a0000",
+        "chiffre": 210000
+    },
+    {
+        "id": "swh",
+        "url": "https://fr.wikipedia.org/wiki/Swahili",
+        "pays": "Burundi, Comores, Mayotte, Kenya, Malawi, Mozambique, Ouganda, R\u00e9publique d\u00e9mocratique du Congo, Rwanda, Somalie, Tanzanie",
+        "pays_count": 11,
+        "nbre_locuteurs": "Premi\u00e8re langue\u00a0: environ 5 millionsSeconde langue\u00a0: environ 150 millions",
+        "chiffre": 5000000
+    },
+    {
+        "id": "yb",
+        "url": "https://fr.wikipedia.org/wiki/Yemba",
+        "pays": "Cameroun",
+        "pays_count": 1,
+        "nbre_locuteurs": "300\u00a0000 (1992)",
+        "chiffre": 300000
+    },
+    {
+        "id": "so",
+        "url": "https://fr.wikipedia.org/wiki/Sonink%C3%A9_(langue)",
+        "pays": "Mali, Mauritanie, S\u00e9n\u00e9gal, Gambie, Guin\u00e9e-Bissau, Guin\u00e9e Burkina Faso",
+        "pays_count": 6,
+        "nbre_locuteurs": "environ 2 millions",
+        "chiffre": 2000000
+    },
+    {
+        "id": "bu",
+        "url": "https://fr.wikipedia.org/wiki/Boulou_(langue)",
+        "pays": "Cameroun",
+        "pays_count": 1,
+        "nbre_locuteurs": "1\u00a0658\u00a0000 (dont 858\u00a0000 en langue maternelle en 2007)",
+        "chiffre": 1658000
+    },
+    {
+        "id": "gho",
+        "url": "https://fr.wikipedia.org/wiki/Ghomala%CA%BC",
+        "pays": "Cameroun",
+        "pays_count": 1,
+        "nbre_locuteurs": "350\u00a0000 (2005)",
+        "chiffre": 350000
+    },
+    {
+        "id": "mbo",
+        "url": "https://fr.wikipedia.org/wiki/Mbo_(langue_du_Cameroun)",
+        "pays": "Cameroun",
+        "pays_count": 1,
+        "nbre_locuteurs": "45\u00a0000",
+        "chiffre": 45000
+    },
+    {
+        "id": "ma",
+        "url": "https://fr.wikipedia.org/wiki/Mafa_(langue)",
+        "pays": "Cameroun, Nigeria",
+        "pays_count": 2,
+        "nbre_locuteurs": "140\u00a0190",
+        "chiffre": 140190
+    },
+    {
+        "id": "dl",
+        "url": "https://fr.wikipedia.org/wiki/Douala_(langue)",
+        "pays": "Cameroun",
+        "pays_count": 1,
+        "nbre_locuteurs": "environ 1\u00a0000\u00a0000",
+        "chiffre": 1000000
+    },
+    {
+        "id": "bs",
+        "url": "https://fr.wikipedia.org/wiki/Bassa_(langue_bantoue)",
+        "pays": "Cameroun",
+        "pays_count": 1,
+        "nbre_locuteurs": "800\u00a0000",
+        "chiffre": 800000
+    },
+    {
+        "id": "fe",
+        "url": "https://fr.wikipedia.org/wiki/Nufi",
+        "pays": "Cameroun",
+        "pays_count": 1,
+        "nbre_locuteurs": "123.700",
+        "chiffre": 123700
+    },
+    {
+        "id": "et",
+        "url": "https://fr.wikipedia.org/wiki/Eton_(langue_bantoue)",
+        "pays": "Cameroun",
+        "pays_count": 1,
+        "nbre_locuteurs": "1\u00a0500\u00a0000 (2020)",
+        "chiffre": 1500000
+    },
+    {
+        "id": "mu",
+        "url": "https://fr.wikipedia.org/wiki/Moussey_(langue)",
+        "pays": "Tchad, Cameroun",
+        "pays_count": 2,
+        "nbre_locuteurs": "229\u00a0000",
+        "chiffre": 229000
+    },
+    {
+        "id": "ok",
+        "url": "https://fr.wikipedia.org/wiki/Oku_(langue)",
+        "pays": "Cameroun",
+        "pays_count": 1,
+        "nbre_locuteurs": "87\u00a0000 (2005)",
+        "chiffre": 87000
+    },
+    {
+        "id": "\u014bg",
+        "url": "https://fr.wikipedia.org/wiki/Ngemba_(langue)",
+        "pays": "Cameroun",
+        "pays_count": 1,
+        "nbre_locuteurs": "18\u00a0800 (2002)",
+        "chiffre": 18800
+    }
+]

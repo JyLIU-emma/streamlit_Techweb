@@ -1,9 +1,15 @@
+# -*- coding: utf-8 -*-
+# Auteur: Jianying LIU
+
 import streamlit as st
 import numpy as np 
 import pandas as pd
 import json
-import plotly.express as px
+import re
 import time
+import plotly.express as px
+import plotly.graph_objs as go
+
 
 # ----------------------------Page de présentation-------------------------------------------------
 
@@ -19,14 +25,23 @@ def presentation():
         Le but de ce projet est de pratiquer les techniques scrapying sur site MPA et SPA, ainsi qu'apprendre à visualiser les données aspirées.
 
         ### Thématiques principales
-        - Logement écologique
+        - **Logement écologique**  
             Depuis le site de l'entreprise [NH HOTELS GROUP](https://www.nh-hotels.fr), aspirer les informations liées à l'écologie, et puis la visualiser pour montrer le besoin d'un plateforme de recherche du logement écologique.
-        - Langues africaines
+        - **Langues africaines**  
             Depuis le site [ntealan](https://ntealan.net), aspirer les données pour montrer la nécessité de soutenir ce genre de projet.
         """
     )
 
 # ----------------------------Page de partie logement écologique-------------------------------------------------
+def color_ecologique(data, nbr_col, color="lightgreen"):
+    """
+    surligner les hôtels verts dans Dataframe
+    """
+    attr = f'background-color: {color}'
+    if data.ndim == 1:
+        is_eco = data["eco_mark"]
+        return [attr if is_eco else '']*nbr_col
+
 def logement_eco():
 
     ###############################################
@@ -61,12 +76,14 @@ def logement_eco():
     continent_choisi = st.selectbox("Choisissez un/plusieurs continents", continent)
     pays = np.insert((df["country"] + "(" + df["continent"] + ")" ).unique(), 0, "non spécifié")
     pays_choisi = st.selectbox("Choisissez un/plusieurs pays", pays)
+    pays_choisi = re.sub(r"\(.+\)", "", pays_choisi)
     df_selected = df
     if continent_choisi != "non spécifié":
         df_selected = df_selected[(df_selected.continent == continent_choisi)]
     if pays_choisi != "non spécifié":
         df_selected = df_selected[(df_selected.country == pays_choisi)]
-    st.write("### Tables des hôtel", df_selected)
+    nbr_col = df_selected.shape[1]
+    st.write("### Tables des hôtel (Les hôtels écologiques sont surlignés en vert)", df_selected.style.apply(color_ecologique, nbr_col=nbr_col, axis=1))
     
     #######################################################################################
     # graphre de barre pour  montrer le nombre de leurs hôtels dans différents continents #
@@ -78,18 +95,41 @@ def logement_eco():
     bargram = px.bar(hotel_count, x="Continent", y="Hotêls", color="Hotêls", height=500)
     st.plotly_chart(bargram)
 
+    hotel_eco_count = df.loc[df.eco_mark == True]["continent"].value_counts()
+    hotel_eco_count = hotel_eco_count.to_dict()
+    hotel_noeco_count = df.loc[df.eco_mark == False]["continent"].value_counts()
+    hotel_noeco_count = hotel_noeco_count.to_dict()
+    list_continent = ["Europe", "Amérique", "Médio Oriente", "Afrique"]
+    trace_1 = go.Bar(
+        x = list_continent,
+        y = [hotel_eco_count.get(cont, 0) for cont in list_continent],
+        name = "écologique"
+    )
+
+    trace_2 = go.Bar(
+        x = list_continent,
+        y = [hotel_noeco_count.get(cont, 0) for cont in list_continent],
+        name = "non_écologique"
+    )
+
+    trace = [trace_1, trace_2]
+    layout = go.Layout(title="Répartition des hôtels écologiques dans différents continents", barmode="stack")
+    fig = go.Figure(data=trace, layout=layout)
+    st.plotly_chart(fig)
+    st.write("**Nous voyons bien un essor de l'hôtellerie écologique en Europe.**")
+
     ####################################################################################
     # camenbert pour montrer les proportions des hôtels écologiques et non écologiques #
     ####################################################################################
 
-    st.write("#### Nombres des hôtels écologiques")
+    st.write("#### État global des hôtels écologiques")
     hotel_eco = df["eco_mark"].value_counts()
     hotel_eco = pd.DataFrame({"Oui/Non écologique":hotel_eco.index, "Hotêls":hotel_eco.values})
     hotel_eco.loc[0,'Oui/Non écologique'] = "Hôtels écologique"
     hotel_eco.loc[1,'Oui/Non écologique'] = "Hôtels non écologique"
     piegram = px.pie(hotel_eco, names="Oui/Non écologique", values="Hotêls")
     st.plotly_chart(piegram)
-    st.write("On voit bien que les logements écologiques l'emportent sur les non écologiques.")
+    st.write("**On voit bien que les logements écologiques l'emportent sur les non écologiques.**")
 
     #############################################################################
     # graphre de barre pour  montrer de nombreux logements de ce type en France #
@@ -99,16 +139,17 @@ def logement_eco():
         """
         #### Nombre de différents type de logements écologiques
 
-        À partir du site de [laclefverte](https://www.laclefverte.org/), une organisation qualifiant les logements écologiques, on trouver des listes de différents types de logements écologiques. 
+        À partir du site de [laclefverte](https://www.laclefverte.org/), une organisation qualifiant les logements écologiques, on trouve des listes de différents types de logements écologiques. 
         Le nombre total de chaque type est utilisé ici pour démonstrer l'essor de ce domaine.
         """
     )
     st.write("#### Différents type de logements écologiques")
     nombre_df = pd.DataFrame({"Type":[i["cat"] for i in liste_type_nombre], "Nombre":[i["nombre"] for i in liste_type_nombre]})
+    nombre_total = nombre_df.Nombre.sum()
+    st.write(f"**Nombre total des hôtels écologiques en France :{nombre_total}**")
     nombre_bargram = px.bar(nombre_df, x="Type", y="Nombre", color="Nombre", height=500)
     st.plotly_chart(nombre_bargram)
     
-
     ##############################################
     # la démonstration d'un texte aspiré du site #
     ##############################################
@@ -127,6 +168,28 @@ def logement_eco():
         st.markdown(texte_nhhotel['Texte'])
     else:
         st.markdown(texte_nhhotel['Texte'][:500] + "...")
+    
+
+    #####################
+    # Partie conclusion #
+    #####################
+
+    st.markdown(
+        """
+        # Conclusion
+
+        À partir de ce qui est montré avant, nous constatons que les logements écologiques ont devient une tendence importante dans l'industrie hôtelière.
+
+        Dans une seule entreprise, il a 201 hôtels écologiques, et seulement en France, 714 logements de tous les genres sont qualifiés comme écologiques.
+
+        **Ce nombre est déjà énorme et ayant besoin d'un système de recherche.**
+
+        En plus, jusqu'ici, nous ne trouvons pas une plate-forme pour englober toutes ces informations, c'est-à-dire un site qui comporte toutes les logements écologiques au niveau mondial et n'importe quelle entreprise qu'il appartienne.
+
+        **En un mot, l'habitation écologique a un bel avenir en perspective, et les systèmes assistant ce domaine sont encore sous-développés, Donc beaucoup d'opportunités potentiels nous attendent.**
+        """
+    )
+
 
 
 
@@ -152,7 +215,96 @@ def langues_africaines():
 
         Mais les ressources ne sont pas encore assez complets. Ce projet a besoins de plus de participation et bénévoles.
 
-        On a extrait une partie des dictionnaire bilingue yemba-français et fulfulde-français pour vous montrer ce besoin.
+        On a extrait tout d'abord les métadonnées des dictionnaires sur ce site, ainsi que certaines informations sur les langues concernées pour montrer la nécessité de les développer davantage.
+
+        Ensuite, une partie des dictionnaire bilingue yemba-français et fulfulde-français sont extraite pour vous montrer comment cet outil peut nous aider.
+        """
+    )
+
+
+    ###################################
+    # Démonstration globale de l'état #
+    ###################################
+
+    with open("scrapying_results/langues/dico_meta.json", "r", encoding="utf8") as f_meta:
+        dico_meta = json.load(f_meta)
+    with open("scrapying_results/langues/lang_info.json", "r", encoding="utf8") as f_lang:
+        dico_lang = json.load(f_lang)
+    
+    st.markdown("## État global sur les dictionnaires de Ntealan")
+
+    trace_1 = go.Bar(
+        x = [i["abbr_name"] for i in dico_meta],
+        y = [i["nbre_articles"] for i in dico_meta],
+        name = "nombre d'articles"
+    )
+    trace_2 = go.Bar(
+        x = [i["abbr_name"] for i in dico_meta],
+        y = [i["nbre_view"] for i in dico_meta],
+        name = "nombre de vues"
+    )
+    trace = [trace_1, trace_2]
+    layout = go.Layout(title="Nombres d'articles et de vues des dictionnaires")
+    figure = go.Figure(data=trace, layout=layout)
+    st.plotly_chart(figure)
+    
+    st.markdown(
+        """
+        Nous voyons bien dans la figure que seulement 4 langues ont plus de 3000 articles. Pour la plupart des langues, le nombre d'articles ne dépasse même pas 1000. En plus, pour l'instant, sauf un dictionnaire bilingue xx-anglais, tous les restes sont des dictionnaire français. 
+        **Donc, il reste encore beaucoup de travail pour compléter les données.**
+
+        En plus, si on regarde le nombre de vue, sauf la langue yemba, tous les autres dictionnaires sont peu consultés, certains ont même moins de consultation que le nombre d'articles.
+        Même si pour la langue yemba, on peut voir plus tard que seulement les premiers articles ont plus de consultations, le reste de ce dictionnaire demeure toujours peu consulté.
+
+        Nous imaginons que c'est plutôt parce que les ressources ne sont pas encore complètes et le site reste inconnu pour les chercheurs de ce domaine. Avec plus de travail et de diffusion, cela améliorera.
+
+        """
+    )
+
+    st.markdown(
+        """
+        ## Info sur les langues concernées
+
+        Après une petite recherche sur les 24 langues concernées, nous trouvons deux états principaux pour ces langues:
+
+        - Certaines langues sont la langue maternelle/la langue seconde pour une population assez grande, **donc il a une valeur pour développer un tel site, afin de faciliter la comminication entre cette population et le monde occidental.**
+
+        - Certaines langues ont peu d'information sur Internet (comme pour Yangben, ŋk̀ùnàbémbé, ndemli, Ejagham), on n'a même rien trouvé. Et ce sont souvent des langues en danger. **De ce fait, il nous faut travailler dessus pour sauver ces patrimoines linguistiques.**
+
+        Le tableau et la figure suivants démonstrent plus clairs ces infos.
+        """
+    )
+
+    langues_df = pd.DataFrame({"Langue_id":[i["id"] for i in dico_lang], "Nombre_pays_utilise":[i["pays_count"] for i in dico_lang],
+                               "pays":[i["pays"] for i in dico_lang], "Nombre_locuteurs":[i["nbre_locuteurs"] for i in dico_lang],
+                               "Nombre_locuteurs_chiffre":[i["chiffre"] for i in dico_lang], "page_wiki":[i["url"] for i in dico_lang]})
+    st.table(langues_df)
+
+    st.write("#### Nombres de locuteurs")
+    nombre_bargram = px.bar(langues_df, x="Langue_id", y="Nombre_locuteurs_chiffre", color="Nombre_locuteurs_chiffre", height=500)
+    st.plotly_chart(nombre_bargram)
+
+
+    ##############################
+    # Extraits des dictionnaires #
+    ##############################
+
+    st.markdown(
+        """
+        ## Extraits des dictionnaires
+
+        """
+    )
+
+    #################################
+    # démonstration des traductions #
+    #################################
+
+    st.markdown(
+        """
+        ## Utilisation de ce dictionnaire
+
+        Vous pouvez consulter la traduction du français vers la langue choisie, à partir de données scrapying dans le site Ntealan
         """
     )
 
@@ -162,18 +314,6 @@ def langues_africaines():
         dico = dico_yemba
     else:
         dico = dico_fulfulde
-    
-    #################################
-    # démonstration des traductions #
-    #################################
-
-    st.markdown(
-        """
-        ## Utiliser de ce dictionnaire
-
-        Vous pouvez consulter la traduction du français vers la langue choisie, à partir de données scrapying dans le site Ntealan
-        """
-    )
 
     # création d'une liste d'indice de traductions
     index_traduction = []
@@ -231,8 +371,22 @@ def langues_africaines():
     st.markdown("***On constate clairement que le nombre de consultations baisse très vite dans la première dizaine d'entrées, et puis prèsque 0 pour la plupard d'entrées. Donc, il reste encore beaucoup de travail à faire.***")
 
 
+    ##############
+    # Conclusion #
+    ##############
 
-if __name__ == "__main__":
+    st.markdown(
+        """
+        # Conclusion
+
+        En un mot, au contraire du nombre assez élevé de locuteurs de ces langues africaines, l'état actuel du site Ntealan et le manque des ressouces linguistiques au près de ces langues se révèle bien la nécessité d'investir à ce domaine.
+
+        Il a non seulement des intérêts économiques, mais aussi des intérêts culturels et scientifiques.
+
+        """
+    )
+
+def main():
     st.sidebar.header("Techniques web -- Projet personel")
     st.sidebar.info("Auteur: Jianying")
     choix = st.sidebar.radio(label="Table de matières : ", options=["Présentation du projet", "Logement écologique", "Langues africaines"])
@@ -243,3 +397,7 @@ if __name__ == "__main__":
         logement_eco()
     elif choix == "Langues africaines":
         langues_africaines()
+
+
+if __name__ == "__main__":
+    main()
